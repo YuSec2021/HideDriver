@@ -1,0 +1,10 @@
+﻿  Building 'HideDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  main.c
+C:\Users\YuSec\Documents\SourceCode\Kernel\HideDriver\main.c(36,34): warning C4100: “pDriver”: 未引用的形参
+C:\Users\YuSec\Documents\SourceCode\Kernel\HideDriver\main.c(93,62): warning C4100: “pReg”: 未引用的形参
+  HideDriver.vcxproj -> C:\Users\YuSec\Documents\SourceCode\Kernel\HideDriver\Debug\HideDriver.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\YuSec\Documents\SourceCode\Kernel\HideDriver\Debug\HideDriver.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
